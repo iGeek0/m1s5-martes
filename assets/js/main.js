@@ -11,7 +11,7 @@ const fechaNacimiento = "17/08/1993"; // no se puede reasignar(no deberia)
 
 
 let apellido = "Perez"; // se puede reasignar
-console.log(apellido);
+// console.log(apellido);
 
 let nombreCompleto = "Jesus Cardenas"; // string(texto)
 let telefono = 1234567890; // number(numero)
@@ -28,11 +28,11 @@ console.log("codigoPostal", typeof codigoPostal);
 
 nombreCompleto = String(123);
 telefono = Number("98765");
-console.log("nombreCompleto", nombreCompleto);
-console.log("telefono", telefono);
-console.log("humano", humano);
-console.log("direccion", direccion);
-console.log("codigoPostal", codigoPostal);
+// console.log("nombreCompleto", nombreCompleto);
+// console.log("telefono", telefono);
+// console.log("humano", humano);
+// console.log("direccion", direccion);
+// console.log("codigoPostal", codigoPostal);
 
 /*
 TODO ESTO ES UN COMENTARIO
